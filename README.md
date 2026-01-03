@@ -1,4 +1,4 @@
-# Jaccard-Coefficient-analysis-for-PPanGGoLiN-gene-presence-absence
+# Jaccard Coefficient analysis for PPanGGoLiN gene presence absence
 Computing similarity, distance matrices, and hierarchical clustering for pangenome data
 
 This repository provides an R script to compute the Jaccard similarity coefficient between bacterial lineages using the gene_presence_absence.csv file derived from PPanGGoLiN.
